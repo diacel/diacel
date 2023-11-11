@@ -1,7 +1,7 @@
 # Hi all! 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/diacel/diacel/blob/main/gif/kuroko-no-basuke-anime.gif?raw=true">
 </div>
 
 </br>
@@ -13,7 +13,7 @@
 
 ### - I am 18 years old, i am a beginner programmer developer, i study programming at the Surgut institute.
 
-<img hight="400" width="500" alt="GIF" align="right" src="">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/diacel/diacel/blob/main/gif/kuroko-no-basuke-kuroko-no-basket.gif?raw=true">
 
 ### - Learning :
 - ✨ Computing equipment
@@ -57,7 +57,7 @@
  </br>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="">
+<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/diacel/diacel/blob/main/gif/akashi-seijuro.gif?raw=true">
 
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.

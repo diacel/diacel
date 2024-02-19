@@ -1,7 +1,7 @@
 # Hi all! 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/diacel/diacel/blob/main/gif/kuroko-no-basuke-anime.gif?raw=true">
+<img hight="300" width="700" alt="GIF" align="center" src="">
 </div>
 
 </br>
@@ -13,7 +13,7 @@
 
 ### - I am 18 years old, i am a beginner programmer developer, i study programming at the Surgut institute.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/diacel/diacel/blob/main/gif/kuroko-no-basuke-kuroko-no-basket.gif?raw=true">
+<img hight="400" width="500" alt="GIF" align="right" src="">
 
 ### - Learning :
 - ✨ Computing equipment
@@ -39,6 +39,10 @@
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/js.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/frameworks/nodejs.png" alt="node.js" style="vertical-align:top; margin:6px 4px">
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/frameworks/unity.png" alt="unity" style="vertical-align:top; margin:6px 4px">
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/html.png" alt="html" style="vertical-align:top; margin:6px 4px">
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/languages/css3.png" alt="css" style="vertical-align:top; margin:6px 4px">
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:6px 4px">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/misc/web.png?raw=true" alt="web" style="vertical-align:top; margin:6px 4px">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/bash.png?raw=true" alt="bach" style="vertical-align:top; margin:6px 4px">
@@ -57,7 +61,7 @@
  </br>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/diacel/diacel/blob/main/gif/akashi-seijuro.gif?raw=true">
+<img hight="320" width="450" align="right" alt="GIF" src="">
 
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
@@ -66,6 +70,8 @@ If you want to reach out to me about anything, be it some doubt or just to hango
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/email_me.png?raw=true" alt="steam" style="vertical-align:top; margin:6px 4px">
 <a href="https://steamcommunity.com/profiles/76561198879140157/">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/steam.png?raw=true" alt="steam" style="vertical-align:top; margin:6px 4px">
+<a href="https://www.twitch.tv/diacelll">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/streaming/twitch.png" alt="steam" style="vertical-align:top; margin:6px 4px">
 </br>
 </br>
 </br>

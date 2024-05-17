@@ -1,4 +1,4 @@
-# Hi all! 👋
+# Hi body! 👋
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://raw.githubusercontent.com/diacel/diacel/main/gif/kuroko-no-basuke-anime.gif">

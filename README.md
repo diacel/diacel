@@ -66,7 +66,7 @@
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
-<a href="https://e.mail.ru/cgi-bin/sentmsg?To=den.lozhnikov@bk.ru&from=otvet">
+<a href="https://e.mail.ru/cgi-bin/sentmsg?To=den.lozhnikov@bk.ru&from=otvet" target="_blank">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/email_me.png?raw=true" alt="steam" style="vertical-align:top; margin:6px 4px">
 <a href="https://steamcommunity.com/profiles/76561198879140157/">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/steam.png?raw=true" alt="steam" style="vertical-align:top; margin:6px 4px">
